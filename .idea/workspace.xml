@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff23cbdd-8ecb-4a8c-b0ca-3e8f9ec9eadf" name="Default Changelist" comment="" />
+    <list default="true" id="ff23cbdd-8ecb-4a8c-b0ca-3e8f9ec9eadf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/1.2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/1.2.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/2.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/3.1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/3.PNG" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +166,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615833346700</updated>
-      <workItem from="1615833347817" duration="6047000" />
+      <workItem from="1615833347817" duration="6490000" />
     </task>
     <servers />
   </component>
